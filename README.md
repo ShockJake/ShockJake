@@ -1,6 +1,6 @@
 - Hi, I’m @ShockJake
 - I’m interested in programming. 
-- I’m currently learning C/C++, Python, Java.
+- I’m currently learning C/C++, Java, Python.
 - I’m looking to collaborate on peaple that can share with me expirience and teach how to be a good programmer.
 - How to reach me gmail: sidux77@gmail.com
 
