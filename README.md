@@ -16,7 +16,7 @@ the classes and some of my own.
 
 > - [Calculator](https://github.com/ShockJake/Java-Projects/tree/main/Calculator "Calculator")
 > - [CesarStream](https://github.com/ShockJake/Java-Projects/tree/main/CesarStream "CesarStream")
-> - [ColectionsTest](https://github.com/ShockJake/Java-Projects/tree/main/ColectionsTest, "Colections Test")
+> - [ColectionsTest](https://github.com/ShockJake/Java-Projects/tree/main/ColectionsTest "Colections Test")
 > - [EchoServer](https://github.com/ShockJake/Java-Projects/tree/main/EchoServer, "Echo Server")
 > - [Numerical Converter](https://github.com/ShockJake/Java-Projects/tree/main/NumericalConverter, "Numerical Converter")
 > - [QuickSort MultiThread](https://github.com/ShockJake/Java-Projects/tree/main/QuickSortMultiThread, "QuickSort MultiThread")
