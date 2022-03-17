@@ -17,9 +17,9 @@ the classes and some of my own.
 > - [Calculator](https://github.com/ShockJake/Java-Projects/tree/main/Calculator "Calculator")
 > - [CesarStream](https://github.com/ShockJake/Java-Projects/tree/main/CesarStream "CesarStream")
 > - [ColectionsTest](https://github.com/ShockJake/Java-Projects/tree/main/ColectionsTest "Colections Test")
-> - [EchoServer](https://github.com/ShockJake/Java-Projects/tree/main/EchoServer, "Echo Server")
-> - [Numerical Converter](https://github.com/ShockJake/Java-Projects/tree/main/NumericalConverter, "Numerical Converter")
-> - [QuickSort MultiThread](https://github.com/ShockJake/Java-Projects/tree/main/QuickSortMultiThread, "QuickSort MultiThread")
+> - [EchoServer](https://github.com/ShockJake/Java-Projects/tree/main/EchoServer "Echo Server")
+> - [Numerical Converter](https://github.com/ShockJake/Java-Projects/tree/main/NumericalConverter "Numerical Converter")
+> - [QuickSort MultiThread](https://github.com/ShockJake/Java-Projects/tree/main/QuickSortMultiThread "QuickSort MultiThread")
 > - [Translator](https://github.com/ShockJake/Java-Projects/tree/main/Translator "Translator")
 
 - [Algorythms and Data Structures](https://github.com/ShockJake/Algorithms-and-Data-Structures "Algorythms")
@@ -32,8 +32,7 @@ the classes and some of my own.
 > - [HashTable](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/HashTable "Hash Table")
 > - [Set](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/Set "Set")
 > - [AVL Tree](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/Tree/AVL "AVL")
-> - [Implementation of polynomial expressions](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/Project
-"Polynomials")
+> - [Implementation of polynomial expressions](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/Project "Polynomials")
 
 - [Network Programs](https://github.com/ShockJake/Network-Programming-UJ "Network programs")
 
