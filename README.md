@@ -36,12 +36,12 @@ the classes and some of my own.
 
 - [Network Programs](https://github.com/ShockJake/Network-Programming-UJ "Network programs")
 
+> - [TCP multithread summator](https://github.com/ShockJake/Network-Programming-UJ/tree/main/tcp-sumserver "TCP Sum server")
+> - [UDP sum server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw3 "UDP Sum server")
 > - [Simple TCP "one message" server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/server "TCP server")
 > - [Simple UDP "one message" server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/serverUDP "UDP server")
 > - [Simple TCP client](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/client "TCP Client")
 > - [Simple UDP client](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/clientUDP "UDP Client")
-> - [UDP sum server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw3 "UDP Sum server")
-> - [TCP multithread summator](https://github.com/ShockJake/Network-Programming-UJ/tree/main/tcp-sumserver "TCP Sum server")
 
 - [RPG-Game in terminal (unfinished)](https://github.com/ShockJake/Rpg_Game "RPG-Game")
 
