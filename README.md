@@ -40,7 +40,8 @@ the classes and some of my own.
 > - [Simple UDP "one message" server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/serverUDP "UDP server")
 > - [Simple TCP client](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/client "TCP Client")
 > - [Simple UDP client](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/clientUDP "UDP Client")
-> - [Simple sum server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw3 "Sum server")
+> - [UDP sum server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw3 "UDP Sum server")
+> - [TCP multithread summator](https://github.com/ShockJake/Network-Programming-UJ/tree/main/tcp-sumserver, "TCP Sum server")
 
 - [RPG-Game in terminal (unfinished)](https://github.com/ShockJake/Rpg_Game "RPG-Game")
 
