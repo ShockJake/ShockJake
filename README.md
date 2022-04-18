@@ -15,15 +15,16 @@ the classes and some of my own.
 - [Java Programs](https://github.com/ShockJake/Java-Projects "Java Programs")
 
 > - [Calculator](https://github.com/ShockJake/Java-Projects/tree/main/Calculator "Calculator")
+> - [Translator](https://github.com/ShockJake/Java-Projects/tree/main/Translator "Translator")
+> - [EchoServer](https://github.com/ShockJake/Java-Projects/tree/main/EchoServer "Echo Server")
 > - [CesarStream](https://github.com/ShockJake/Java-Projects/tree/main/CesarStream "CesarStream")
 > - [ColectionsTest](https://github.com/ShockJake/Java-Projects/tree/main/ColectionsTest "Colections Test")
-> - [EchoServer](https://github.com/ShockJake/Java-Projects/tree/main/EchoServer "Echo Server")
 > - [Numerical Converter](https://github.com/ShockJake/Java-Projects/tree/main/NumericalConverter "Numerical Converter")
 > - [QuickSort MultiThread](https://github.com/ShockJake/Java-Projects/tree/main/QuickSortMultiThread "QuickSort MultiThread")
-> - [Translator](https://github.com/ShockJake/Java-Projects/tree/main/Translator "Translator")
 
 - [Algorythms and Data Structures](https://github.com/ShockJake/Algorithms-and-Data-Structures "Algorythms")
 
+> - [Implementation of polynomial expressions](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/Project "Polynomials")
 > - [Array List](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/ArrayList "Array List")
 > - [Linked List](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/LinkedList "Linked List")
 > - [Array Based Stack](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/ArrayBasedStack "Array Based Stack")
@@ -32,7 +33,6 @@ the classes and some of my own.
 > - [HashTable](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/HashTable "Hash Table")
 > - [Set](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/Set "Set")
 > - [AVL Tree](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/Tree/AVL "AVL")
-> - [Implementation of polynomial expressions](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/Project "Polynomials")
 
 - [Network Programs](https://github.com/ShockJake/Network-Programming-UJ "Network programs")
 
