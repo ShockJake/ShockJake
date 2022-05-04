@@ -22,6 +22,17 @@ the classes and some of my own.
 > - [Numerical Converter](https://github.com/ShockJake/Java-Projects/tree/main/NumericalConverter "Numerical Converter")
 > - [QuickSort MultiThread](https://github.com/ShockJake/Java-Projects/tree/main/QuickSortMultiThread "QuickSort MultiThread")
 
+- [Network Programs](https://github.com/ShockJake/Network-Programming-UJ "Network programs")
+
+> - [Current Time Parser](https://github.com/ShockJake/Network-Programming-UJ/tree/main/CurrentTime ""Current Time Parser)
+> - [Http Checker](https://github.com/ShockJake/Network-Programming-UJ/tree/main/http-checker "Http Checker")
+> - [TCP multithread summator](https://github.com/ShockJake/Network-Programming-UJ/tree/main/tcp-sumserver "TCP Sum server")
+> - [UDP sum server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw3 "UDP Sum server")
+> - [Simple TCP "one message" server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/server "TCP server")
+> - [Simple UDP "one message" server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/serverUDP "UDP server")
+> - [Simple TCP client](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/client "TCP Client")
+> - [Simple UDP client](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/clientUDP "UDP Client")
+
 - [Algorythms and Data Structures](https://github.com/ShockJake/Algorithms-and-Data-Structures "Algorythms")
 
 > - [Implementation of polynomial expressions](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/Project "Polynomials")
@@ -34,15 +45,6 @@ the classes and some of my own.
 > - [Set](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/Set "Set")
 > - [AVL Tree](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/Tree/AVL "AVL")
 
-- [Network Programs](https://github.com/ShockJake/Network-Programming-UJ "Network programs")
-
-> - [Http Checker](https://github.com/ShockJake/Network-Programming-UJ/tree/main/http-checker "Http Checker")
-> - [TCP multithread summator](https://github.com/ShockJake/Network-Programming-UJ/tree/main/tcp-sumserver "TCP Sum server")
-> - [UDP sum server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw3 "UDP Sum server")
-> - [Simple TCP "one message" server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/server "TCP server")
-> - [Simple UDP "one message" server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/serverUDP "UDP server")
-> - [Simple TCP client](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/client "TCP Client")
-> - [Simple UDP client](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/clientUDP "UDP Client")
 
 - [RPG-Game in terminal (unfinished)](https://github.com/ShockJake/Rpg_Game "RPG-Game")
 
