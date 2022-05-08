@@ -14,6 +14,7 @@ the classes and some of my own.
 
 - [Java Programs](https://github.com/ShockJake/Java-Projects "Java Programs")
 
+> - [InformationSearcherApp](https://github.com/ShockJake/InformationSearcherApp "InformationSearcherApp")
 > - [Calculator](https://github.com/ShockJake/Java-Projects/tree/main/Calculator "Calculator")
 > - [Translator](https://github.com/ShockJake/Java-Projects/tree/main/Translator "Translator")
 > - [EchoServer](https://github.com/ShockJake/Java-Projects/tree/main/EchoServer "Echo Server")
