@@ -26,7 +26,6 @@ the classes and some of my own.
 
 - [Network Programs](https://github.com/ShockJake/Network-Programming-UJ "Network programs")
 
-> - [Discogs Musical Releases Finder](https://github.com/ShockJake/Network-Programming-UJ/tree/main/DiscogsReleaseFinder "Discogs Musical Releases Finder")
 > - [Current Time Parser](https://github.com/ShockJake/Network-Programming-UJ/tree/main/CurrentTime "Current Time Parser")
 > - [Http Checker](https://github.com/ShockJake/Network-Programming-UJ/tree/main/http-checker "Http Checker")
 > - [TCP multithread summator](https://github.com/ShockJake/Network-Programming-UJ/tree/main/tcp-sumserver "TCP Sum server")
