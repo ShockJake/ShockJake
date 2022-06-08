@@ -16,13 +16,11 @@ the classes and some of my own.
 
 > - [DiscogsInformer](https://github.com/ShockJake/Network-Programming-UJ/tree/main/DiscogsReleaseFinder "DiscogsInformer")
 > - [InformationSearcherApp](https://github.com/ShockJake/InformationSearcherApp "InformationSearcherApp")
-> - [Calculator](https://github.com/ShockJake/Java-Projects/tree/main/Calculator "Calculator")
-> - [Translator](https://github.com/ShockJake/Java-Projects/tree/main/Translator "Translator")
+> - [Calculator with UI](https://github.com/ShockJake/Java-Projects/tree/main/Calculator "Calculator")
+> - [Translator with UI](https://github.com/ShockJake/Java-Projects/tree/main/Translator "Translator")
 > - [EchoServer](https://github.com/ShockJake/Java-Projects/tree/main/EchoServer "Echo Server")
 > - [CesarStream](https://github.com/ShockJake/Java-Projects/tree/main/CesarStream "CesarStream")
-> - [ColectionsTest](https://github.com/ShockJake/Java-Projects/tree/main/ColectionsTest "Colections Test")
 > - [Numerical Converter](https://github.com/ShockJake/Java-Projects/tree/main/NumericalConverter "Numerical Converter")
-> - [QuickSort MultiThread](https://github.com/ShockJake/Java-Projects/tree/main/QuickSortMultiThread "QuickSort MultiThread")
 
 - [Network Programs](https://github.com/ShockJake/Network-Programming-UJ "Network programs")
 
@@ -32,8 +30,6 @@ the classes and some of my own.
 > - [UDP sum server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw3 "UDP Sum server")
 > - [Simple TCP "one message" server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/server "TCP server")
 > - [Simple UDP "one message" server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/serverUDP "UDP server")
-> - [Simple TCP client](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/client "TCP Client")
-> - [Simple UDP client](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/clientUDP "UDP Client")
 
 - [Algorythms and Data Structures](https://github.com/ShockJake/Algorithms-and-Data-Structures "Algorythms")
 
