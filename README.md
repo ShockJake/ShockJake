@@ -26,8 +26,8 @@ the classes and some of my own.
 
 > - [Current Time Parser](https://github.com/ShockJake/Network-Programming-UJ/tree/main/CurrentTime "Current Time Parser")
 > - [Http Checker](https://github.com/ShockJake/Network-Programming-UJ/tree/main/http-checker "Http Checker")
-> - [TCP multithread summator](https://github.com/ShockJake/Network-Programming-UJ/tree/main/tcp-sumserver "TCP Sum server")
-> - [UDP sum server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw3 "UDP Sum server")
+> - [TCP multithread sum server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/tcp-sumserver "TCP Sum server")
+> - [UDP sum server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/udp_sumserver "UDP Sum server")
 > - [Simple TCP "one message" server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/server "TCP server")
 > - [Simple UDP "one message" server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/serverUDP "UDP server")
 
