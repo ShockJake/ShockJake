@@ -12,41 +12,15 @@ the classes and some of my own.
 
 #### List of projects
 
-- [Java Programs](https://github.com/ShockJake/Java-Projects "Java Programs")
-
-> - [DiscogsInformer](https://github.com/ShockJake/Network-Programming-UJ/tree/main/DiscogsReleaseFinder "DiscogsInformer")
-> - [InformationSearcherApp](https://github.com/ShockJake/InformationSearcherApp "InformationSearcherApp")
-> - [Calculator with UI](https://github.com/ShockJake/Java-Projects/tree/main/Calculator "Calculator")
-> - [Translator with UI](https://github.com/ShockJake/Java-Projects/tree/main/Translator "Translator")
-> - [EchoServer](https://github.com/ShockJake/Java-Projects/tree/main/EchoServer "Echo Server")
-> - [CesarStream](https://github.com/ShockJake/Java-Projects/tree/main/CesarStream "CesarStream")
-> - [Numerical Converter](https://github.com/ShockJake/Java-Projects/tree/main/NumericalConverter "Numerical Converter")
-
-- [Network Programs](https://github.com/ShockJake/Network-Programming-UJ "Network programs")
-
-> - [Current Time Parser](https://github.com/ShockJake/Network-Programming-UJ/tree/main/CurrentTime "Current Time Parser")
-> - [Http Checker](https://github.com/ShockJake/Network-Programming-UJ/tree/main/http-checker "Http Checker")
-> - [TCP multithread sum server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/tcp-sumserver "TCP Sum server")
-> - [UDP sum server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/udp_sumserver "UDP Sum server")
-> - [Simple TCP "one message" server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/server "TCP server")
-> - [Simple UDP "one message" server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/Zestaw2/serverUDP "UDP server")
-
-- [Algorythms and Data Structures](https://github.com/ShockJake/Algorithms-and-Data-Structures "Algorythms")
-
-> - [Implementation of polynomial expressions](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/Project "Polynomials")
-> - [Array List](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/ArrayList "Array List")
-> - [Linked List](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/LinkedList "Linked List")
-> - [Array Based Stack](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/ArrayBasedStack "Array Based Stack")
-> - [Pointer Based Stack](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/PointerBasedStack "Pointer Based Stack")
-> - [Queue](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/Queue "Queue")
-> - [HashTable](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/HashTable "Hash Table")
-> - [Set](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/Set "Set")
-> - [AVL Tree](https://github.com/ShockJake/Algorithms-and-Data-Structures/tree/main/Tree/AVL "AVL")
-
-
-- [RPG-Game in terminal (unfinished)](https://github.com/ShockJake/Rpg_Game "RPG-Game")
-
-- [Python programs](https://github.com/ShockJake/Python-University "Programs showing python functionality")
+- [DiffApp](https://github.com/ShockJake/diff-app "DiffApp")
+- [DiscogsInformer](https://github.com/ShockJake/Network-Programming-UJ/tree/main/DiscogsReleaseFinder "DiscogsInformer")
+- [InformationSearcherApp](https://github.com/ShockJake/InformationSearcherApp "InformationSearcherApp")
+- [Calculator with UI](https://github.com/ShockJake/Java-Projects/tree/main/Calculator "Calculator")
+- [Translator with UI](https://github.com/ShockJake/Java-Projects/tree/main/Translator "Translator")
+- [Current Time Parser](https://github.com/ShockJake/Network-Programming-UJ/tree/main/CurrentTime "Current Time Parser")
+- [Http Checker](https://github.com/ShockJake/Network-Programming-UJ/tree/main/http-checker "Http Checker")
+- [TCP multithread sum server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/tcp-sumserver "TCP Sum server")
+- [UDP sum server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/udp_sumserver "UDP Sum server")
 
 <!---
 ShockJake/ShockJake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
