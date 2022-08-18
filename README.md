@@ -15,10 +15,8 @@ the classes and some of my own.
 - [DiffApp](https://github.com/ShockJake/diff-app "DiffApp")
 - [DiscogsInformer](https://github.com/ShockJake/Network-Programming-UJ/tree/main/DiscogsReleaseFinder "DiscogsInformer")
 - [InformationSearcherApp](https://github.com/ShockJake/InformationSearcherApp "InformationSearcherApp")
-- [Calculator with UI](https://github.com/ShockJake/Java-Projects/tree/main/Calculator "Calculator")
 - [Translator with UI](https://github.com/ShockJake/Java-Projects/tree/main/Translator "Translator")
 - [Current Time Parser](https://github.com/ShockJake/Network-Programming-UJ/tree/main/CurrentTime "Current Time Parser")
-- [Http Checker](https://github.com/ShockJake/Network-Programming-UJ/tree/main/http-checker "Http Checker")
 - [TCP multithread sum server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/tcp-sumserver "TCP Sum server")
 - [UDP sum server](https://github.com/ShockJake/Network-Programming-UJ/tree/main/udp_sumserver "UDP Sum server")
 
